@@ -1,0 +1,14 @@
+Car Sales Dashboard - Data Source Documentation
+
+This Power BI dashboard was developed using a static, downloaded Excel file containing transactional sales data.
+
+1. Primary Data Source File:
+   The primary input file used to build the data model is named: star-schema-2.xlsx
+2. Source Origin:
+   This dataset was downloaded for analytical purposes.
+  
+3. Data Transformation & Modeling:
+   All data cleaning, relationship creation, and calculated measures (DAX) are stored within the accompanying .pbix file. The data was loaded into Power BI Desktop via the "Get Data" -> "Excel Workbook" connector.
+
+4. Reproducibility Note:
+   The source Excel file is included in this repository to allow users to refresh the Power BI model successfully.
