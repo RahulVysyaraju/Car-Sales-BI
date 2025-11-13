@@ -1,4 +1,5 @@
 <p align="center"> <img src="C:\Users\rahul\Downloads\Gemini_Generated_Image_a3kt6oa3kt6oa3kt.png" width="300" height="150"> </p>
+
 # Global Auto Sales Analytics Dashboard (Power BI)
 Interactive Power BI dashboard analyzing global car sales performance, revenue trends, and geographical distribution for Global Auto Insights.
 
