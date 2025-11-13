@@ -27,7 +27,7 @@ This project features a comprehensive and interactive business intelligence dash
 | `star-schema-2.xlsx` | The source data file used for the analysis. |
 | `README.md` | This file—project overview and documentation. |
 | `Data_Source_Details.txt` | Detailed log of the data source and collection method. |
-| `images/` folder | Contains the **`Global Auto Insights Logo.png`** and all report screenshots. |
+| ` `| Contains the **`Global Auto Insights Logo.png`** and all report screenshots. |
 
 ---
 
