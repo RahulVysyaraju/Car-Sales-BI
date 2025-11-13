@@ -56,5 +56,3 @@ This project features a comprehensive and interactive business intelligence dash
 3.  **Data Connection:** Since the source Excel file is included, the report should automatically connect and load the data model, allowing full interactivity and exploration of the visualizations.
 
 ---
-
-This is your final, comprehensive `README.md`! Remember to **create the `images/` folder** and place your logo file inside it before uploading.
