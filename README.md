@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo_global_auto.png" alt="Global Auto Insights Logo" width="300" height="100">
+  <img src="Global Auto Insights Logo.png" alt="Global Auto Insights Logo" width="300" height="100">
 </p>
 
 # 🚗 Global Auto Sales Analytics Dashboard (Power BI)
