@@ -2,7 +2,7 @@
   <img src="Global Auto Insights Logo.png" alt="Global Auto Insights Logo" width="300" height="200">
 </p>
 
-# 🚗 Global Auto Sales Analytics Dashboard (Power BI)
+# Global Auto Sales Analytics Dashboard (Power BI)
 
 Interactive Power BI dashboard analyzing global car sales performance, revenue trends, and geographical distribution for Global Auto Insights.
 
@@ -23,11 +23,11 @@ This project features a comprehensive and interactive business intelligence dash
 
 | File Name | Description |
 | :--- | :--- |
-| `[Your Project Name].pbix` | The fully functional Power BI report file. |
-| `[Your Excel File Name].xlsx` | The source data file used for the analysis. |
+| `Car Sales.pbix` | The fully functional Power BI report file. |
+| `star-schema-2.xlsx` | The source data file used for the analysis. |
 | `README.md` | This file—project overview and documentation. |
 | `Data_Source_Details.txt` | Detailed log of the data source and collection method. |
-| `images/` folder | Contains the **`logo_global_auto.png`** and all report screenshots. |
+| `images/` folder | Contains the **`Global Auto Insights Logo.png`** and all report screenshots. |
 
 ---
 
@@ -52,7 +52,7 @@ This project features a comprehensive and interactive business intelligence dash
 ## 🚀 Getting Started (How to Use)
 
 1.  **Download:** Clone or download the entire repository contents.
-2.  **Software:** Open the **`[Your Project Name].pbix`** file in **Power BI Desktop**.
+2.  **Software:** Open the **`Car Sales.pbix`** file in **Power BI Desktop**.
 3.  **Data Connection:** Since the source Excel file is included, the report should automatically connect and load the data model, allowing full interactivity and exploration of the visualizations.
 
 ---
